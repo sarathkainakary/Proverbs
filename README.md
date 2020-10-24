@@ -1,0 +1,2 @@
+# Proverbs
+Collection of proverbs
